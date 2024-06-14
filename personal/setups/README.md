@@ -4,9 +4,18 @@ Listing of existing and wished parts of my PC setup
 
 ## Wishlist
 
+### Hardware
+
+- **PSU**: [Seasonic Vertex GX 1000W ATX power supply unit](https://seasonic.com/vertex-gx/)
+    - [Amazon DE](https://www.amazon.de/-/en/Seasonic-Vertex-1000-power-supply/dp/B0BQRCD834/ref=sr_1_1)
+
 ### Accessories
 
-- VANBAR ‎AR100 compressed air blower
+- [VIVO Under Desk Leg Clamp PC Mount](https://vivo-us.com/products/mount-pc01c)
+    - Not available in Germany (Import only)
+    - [Ubuy](https://www.ubuy.co.de/en/product/7W04QOW18-vivo-adjustable-clamp-on-desk-leg-pc-mount-under-desk-pc-mount-computer-case-cpu-holder-with-tool-free-installation-black-mount-pc01c)
+    - [ebay](https://www.ebay.com/itm/326159340684)
+- VANBAR AR100 compressed air blower
     - [Amazon DE](https://www.amazon.de/dp/B0BVLJ885C)   
 - [Targus AWU420GL phone dock](https://de.targus.com/products/universal-usb-c-phone-dock-awu420gl)
     - Fairphone compatible
@@ -19,5 +28,5 @@ Listing of existing and wished parts of my PC setup
 ## Interesting random products
 
 - HY320 Mini Projector
-    - [Amazon](https://www.amazon.de/-/en/Magcubic-Projector-Automatic-Correction-Integrated/dp/B0CQK47X5V/ref=sr_1_fkmr1_1)
+    - [Amazon DE](https://www.amazon.de/-/en/Magcubic-Projector-Automatic-Correction-Integrated/dp/B0CQK47X5V/ref=sr_1_fkmr1_1)
     - [AliExpress](https://www.aliexpress.com/item/1005006413384128.html)
