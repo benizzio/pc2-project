@@ -51,3 +51,5 @@
 
 - [Ferdium](https://ferdium.org/)
     - Service aggregation. Can integrate mail services, messaging services, social networks, calendar, AI chatbots, etc. all in one app
+- [Solaar](https://github.com/pwr-Solaar/Solaar) 
+    - Linux device manager for Logitech devices
