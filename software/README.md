@@ -31,3 +31,23 @@
             # compress example:
             > jpegoptim --max=50 ./*.jpg #50% compression
             ```
+
+
+### Security
+
+- [Cryptomator](https://cryptomator.org/)
+    - Filesystem encryption on demand, ideal for cloud
+
+### Editors
+
+- [Xournal++](https://xournalpp.github.io/)
+    - PDF editing
+
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+    - PDF merging, splitting and rearranging
+
+
+### Utilities
+
+- [Ferdium](https://ferdium.org/)
+    - Service aggregation. Can integrate mail services, messaging services, social networks, calendar, AI chatbots, etc. all in one app
