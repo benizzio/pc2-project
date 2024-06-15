@@ -21,3 +21,13 @@
 
             # restart terminal session!
             ```
+
+- [jpegoptim](https://github.com/tjko/jpegoptim)
+    - Optimizations on jpeg images (e.g. compression)
+        - for Ubuntu
+            ```zsh
+            > sudo apt install jpegoptim
+            
+            # compress example:
+            > jpegoptim --max=50 ./*.jpg #50% compression
+            ```
