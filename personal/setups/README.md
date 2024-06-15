@@ -2,6 +2,21 @@
 
 Listing of existing and wished parts of my PC setup
 
+## Current setup
+
+### Accessories
+
+- **Monitors**: [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
+    - IPS
+    - Quantum Dot
+    - 1440p
+    - 165Hz
+    - Nvidia G-Sync
+    - HDR Ready
+    - Monitor stand: [Duronic DMDC5X1](https://duronic.de/products/duronic-dmdc5x1-monitorhalterung-tischhalterung-bildschirmhalterung-monitorarm-mit-gasdruckfeder-lcd-led-computer-neigung-90-45-schwenkung-180-rotation-360)
+- **Keyboard**: [Keychron K10 Pro QMK/VIA Wireless Mechanical Keyboard ISO Layout Collection](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection)
+    - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
+    - [ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
 
 ## Wishlist
 
@@ -18,18 +33,38 @@ Listing of existing and wished parts of my PC setup
 
 ### Accessories
 
+#### Keyboard
+
+- Keycap rubber o-rings
+    - [Amazon DE](https://www.amazon.de/-/en/Pieces-Keyboard-Silicone-Dampener-Cleaning/dp/B09T67X4WR)
+- WASD special keycaps
+    - [KPrepublic](https://kprepublic.com/en-de/products/teamwolf-stainless-steel-mx-metal-keycap-for-keyboard-gaming-key-wasd-r2-r3-light-through-back-lit-black-blue-gold-gradient?variant=41921052770467)
+- Novelty Keycaps
+    - Steam - [MechanicalKeyboards.co.id](https://www.mechanicalkeyboards.co.id/products/detail/steam-abs-backlit-keycap-black)
+    - Happy PC - [Etsy](https://www.etsy.com/de/listing/1178475719/mechanische-tastatur-keycap-pbt-keycaps?variation0=2462015924)
+    - BSOD Windows PC [Etsy](https://www.etsy.com/de/listing/999114798/crt-monitor-artisan-tastenkappe-fur?variation0=1981665612)
+    - PC XT - [Etsy](https://www.etsy.com/de/listing/1593988153/benutzerdefinierte-geschenk?variation0=3975847000&variation1=3975846992)
+
+#### Mount and stand
+
 - [VIVO Under Desk Leg Clamp PC Mount](https://vivo-us.com/products/mount-pc01c)
     - Not available in Germany (Import only)
     - [Ubuy](https://www.ubuy.co.de/en/product/7W04QOW18-vivo-adjustable-clamp-on-desk-leg-pc-mount-under-desk-pc-mount-computer-case-cpu-holder-with-tool-free-installation-black-mount-pc01c)
     - [ebay](https://www.ebay.com/itm/326159340684)
-- VANBAR AR100 compressed air blower
-    - [Amazon DE](https://www.amazon.de/dp/B0BVLJ885C)   
+
+#### Docks
+
 - [Targus AWU420GL phone dock](https://de.targus.com/products/universal-usb-c-phone-dock-awu420gl)
     - Fairphone compatible
     - [Amazon DE](https://www.amazon.de/Targus-AWU420GL-Universal-Telefon-Dock-kompatibel/dp/B08TV9V83S)
 - [UGREEN USB Switch](https://de.ugreen.com/products/ugreen-usb-switch-2pc-10gbps-usb-3-2-switcher-2-in-4-out-usb-c-switch)
     - 2 PCs 10 10Gbps USB 3.2 3 USB-A 1 USB-C
     - [Amazon DE](https://www.amazon.de/UGREEN-Switcher-Kontroller-Umschalter-Aluminiumgeh%C3%A4use/dp/B0CH7T76RX)
+
+#### Tools
+
+- VANBAR AR100 compressed air blower
+    - [Amazon DE](https://www.amazon.de/dp/B0BVLJ885C)
 
 
 ## Supplies
