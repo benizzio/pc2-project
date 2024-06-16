@@ -4,6 +4,10 @@ Listing of existing and wished parts of my PC setup
 
 ## Current setup
 
+### Case
+
+- [NZXT S340](../../assets/nzxt-s340-manual.pdf)
+
 ### Accessories
 
 - **Monitors**: [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
