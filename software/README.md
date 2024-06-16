@@ -24,12 +24,31 @@
 
 - [jpegoptim](https://github.com/tjko/jpegoptim)
     - Optimizations on jpeg images (e.g. compression)
+    - for Ubuntu
+        ```zsh
+        > sudo apt install jpegoptim
+        
+        # compress example:
+        > jpegoptim --max=50 ./*.jpg #50% compression
+        ```
+
+- [Miller](https://github.com/johnkerl/miller)
+    - File conversion, most importantly, Json <-> CSV
+
+- [gImageReader](https://github.com/manisandro/gImageReader)
+    - OCR from Image PDFs
+    - for Ubuntu
+        ```zsh
+        > sudo apt install gimagereader tesseract-ocr
+        
+        # compress example:
+        > jpegoptim --max=50 ./*.jpg #50% compression
+        ```
+    - [Language packages](https://packages.debian.org/source/sid/tesseract-lang)
         - for Ubuntu
             ```zsh
-            > sudo apt install jpegoptim
-            
-            # compress example:
-            > jpegoptim --max=50 ./*.jpg #50% compression
+            # example (portuguese)
+            > sudo apt install tesseract-ocr-por
             ```
 
 
