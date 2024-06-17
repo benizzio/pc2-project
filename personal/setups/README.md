@@ -4,9 +4,24 @@ Listing of existing and wished parts of my PC setup
 
 ## Current setup
 
+### Hardware
+
+- **CPU**: [i7-8700K](https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html)
+- **Motehrboard**: [Asus Z370-P](https://www.asus.com/me-en/supportonly/prime%20z370-p/helpdesk_manual)
+- **RAM**: [HyperX Predator HX430C15PB3K2/16](../../assets/HX430C15PB3K2_16.pdf)
+    - [Amazon DE](https://www.amazon.de/Kingston-HyperX-HX430C15PB3K2-16-DDR4-Speicher/dp/B01GCWQ4JA)
+
 ### Case
 
-- [NZXT S340](../../assets/nzxt-s340-manual.pdf)
+- NZXT S340
+    - [Manual](../../assets/nzxt-s340-manual.pdf)
+    - Front intake:
+        - 1 [NF-A14 PWM chromax.black.swap](https://noctua.at/de/nf-a14-pwm-chromax-black-swap/specification)
+            - [Amazon DE](https://www.amazon.de/dp/B07655KF5C?th=1)
+    - Top exhaust:
+        - 1 NF-A14 PWM chromax.black.swap
+    - Back exhaust:
+        - 1 [NF-S12A PWM chromax.black.swap](https://noctua.at/de/nf-s12a-pwm-chromax-black-swap)
 
 ### Accessories
 
@@ -17,7 +32,7 @@ Listing of existing and wished parts of my PC setup
     - 165Hz
     - Nvidia G-Sync
     - HDR Ready
-    - Monitor stand: [Duronic DMDC5X1](https://duronic.de/products/duronic-dmdc5x1-monitorhalterung-tischhalterung-bildschirmhalterung-monitorarm-mit-gasdruckfeder-lcd-led-computer-neigung-90-45-schwenkung-180-rotation-360)
+- **Monitor stand**: [Duronic DMDC5X1](https://duronic.de/products/duronic-dmdc5x1-monitorhalterung-tischhalterung-bildschirmhalterung-monitorarm-mit-gasdruckfeder-lcd-led-computer-neigung-90-45-schwenkung-180-rotation-360)
 - **Keyboard**: [Keychron K10 Pro QMK/VIA Wireless Mechanical Keyboard ISO Layout Collection](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection)
     - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
     - [ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
@@ -29,11 +44,12 @@ Listing of existing and wished parts of my PC setup
 - **PSU**: [Seasonic Vertex GX 1000W ATX power supply unit](https://seasonic.com/vertex-gx/)
     - [Amazon DE](https://www.amazon.de/-/en/Seasonic-Vertex-1000-power-supply/dp/B0BQRCD834/ref=sr_1_1)
 - **CPU Cooler**:
-    - [Noctua NH-U12a chromax.black](https://noctua.at/de/nh-u12a-chromax-black)
-        - [Amazon DE](https://www.amazon.de/dp/B098XP1Y38)
+    - ~~[Noctua NH-U12a chromax.black](https://noctua.at/de/nh-u12a-chromax-black)~~
+        - ~~[Amazon DE](https://www.amazon.de/dp/B098XP1Y38)~~
     - [THERMALRIGHT Peerless Assassin 120 Black](https://www.thermalright.com/product/peerless-assassin-120-black/)
         - [Amazon DE](https://www.amazon.de/-/en/Thermalright-Peerless-Assassin-Heatpipes-Technology/dp/B0B531CBD3/ref=sr_1_3)
-
+    - [NF-F12 PWM chromax.black.swap](https://noctua.at/de/nf-f12-pwm-chromax-black-swap)
+        - [Amazon DE](https://www.amazon.de/dp/B07654PNFQ?tag=noctua09-21)
 
 ### Accessories
 
