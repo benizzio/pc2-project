@@ -40,9 +40,6 @@
     - for Ubuntu
         ```zsh
         > sudo apt install gimagereader tesseract-ocr
-        
-        # compress example:
-        > jpegoptim --max=50 ./*.jpg #50% compression
         ```
     - [Language packages](https://packages.debian.org/source/sid/tesseract-lang)
         - for Ubuntu
