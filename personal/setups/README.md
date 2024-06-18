@@ -2,12 +2,22 @@
 
 Listing of existing and wished parts of my PC setup
 
+
+## Past setups
+
+### PC0
+
+- **CPU**: [Intel i7-2600K](https://www.intel.com/content/www/us/en/products/sku/52214/intel-core-i72600k-processor-8m-cache-up-to-3-80-ghz/specifications.html)
+- **Motherboard**: [Asus P8Z68-V PRO](https://www.asus.com/de/supportonly/p8z68-v%20pro/helpdesk_manual)
+- **Graphics Card**: [MSI N560GTX-Ti Twin Frozr II/OC](https://www.msi.com/Graphics-Card/N560GTXTi_Twin_Frozr_IIOC/Specification)
+
+
 ## Current setup
 
 ### Hardware
 
-- **CPU**: [i7-8700K](https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html)
-- **Motehrboard**: [Asus Z370-P](https://www.asus.com/me-en/supportonly/prime%20z370-p/helpdesk_manual)
+- **CPU**: [Intel i7-8700K](https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html)
+- **Motherboard**: [Asus Z370-P](https://www.asus.com/me-en/supportonly/prime%20z370-p/helpdesk_manual)
 - **RAM**: [HyperX Predator HX430C15PB3K2/16](../../assets/HX430C15PB3K2_16.pdf)
     - [Amazon DE](https://www.amazon.de/Kingston-HyperX-HX430C15PB3K2-16-DDR4-Speicher/dp/B01GCWQ4JA)
 
@@ -36,6 +46,11 @@ Listing of existing and wished parts of my PC setup
 - **Keyboard**: [Keychron K10 Pro QMK/VIA Wireless Mechanical Keyboard ISO Layout Collection](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection)
     - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
     - [ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
+- **Mouse**: [Logitech G502 Hero](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html)
+- **Headset**: [Logitech G535](https://www.logitechg.com/en-us/products/gaming-audio/g535-wireless-headset.981-000971.html)
+- **Desk**: [Flexispot EG1](https://www.flexispot.de/elektrisch-hohenverstellbares-tischgestell-e1.html)
+    - 120 x 60
+
 
 ## Wishlist
 
