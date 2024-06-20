@@ -92,6 +92,7 @@ Listing of existing and wished parts of my PC setup
     - Not available in Germany (Import only)
     - [Ubuy](https://www.ubuy.co.de/en/product/7W04QOW18-vivo-adjustable-clamp-on-desk-leg-pc-mount-under-desk-pc-mount-computer-case-cpu-holder-with-tool-free-installation-black-mount-pc01c)
     - [ebay](https://www.ebay.com/itm/326159340684)
+- [Magnetic Cable Management](https://www.lttstore.com/products/mcm-arches?variant=40464765517927)
 
 #### Docks
 
