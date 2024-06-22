@@ -92,6 +92,11 @@
     - Vulkan post processing layer for graphical enhancement - integrates with clients
 - [GameMode](https://github.com/FeralInteractive/gamemode)
     - Resource optimization manager at OS/Process level to run games
+- [gamescope](https://github.com/ValveSoftware/gamescope)
+    - Valve microcompositor for gaming features like:
+        - Spoofing resolutions;
+        - Upscaling using AMD FidelityFX™ Super Resolution or NVIDIA Image Scaling;
+        - Limiting framerates.
 
 
 ## Linux distributions reference
