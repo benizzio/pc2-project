@@ -54,18 +54,41 @@
 - [Cryptomator](https://cryptomator.org/)
     - Filesystem encryption on demand, ideal for cloud
 
+
+### Compatibility
+
+- [Proton-GE-Custom](https://github.com/GloriousEggroll/proton-ge-custom)
+    - Bleeding edge community alternative to proton (to also run with Steam)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+    - Open source client for for Epic Games Store, with proton integration to run games. Very customizable
+- [Lutris](https://lutris.net)
+    - Open source client for other stores, also with proton integration. Additional focus on emulation and game preservation
+
 ### Editors
 
 - [Xournal++](https://xournalpp.github.io/)
     - PDF editing
-
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
     - PDF merging, splitting and rearranging
 
 
 ### Utilities
 
+#### General
+
 - [Ferdium](https://ferdium.org/)
     - Service aggregation. Can integrate mail services, messaging services, social networks, calendar, AI chatbots, etc. all in one app
+
+#### Accessories
+
 - [Solaar](https://github.com/pwr-Solaar/Solaar) 
     - Linux device manager for Logitech devices
+
+#### Gaming
+
+- [MangoHud](https://github.com/flightlessmango/MangoHud)
+    - Overlay for hardware data
+- [vkBasalt](https://github.com/DadSchoorse/vkBasalt)
+    - Vulkan post processing layer for graphical enhancement - integrates with clients
+- [GameMode](https://github.com/FeralInteractive/gamemode)
+    - Resource optimization manager at OS/Process level to run games
