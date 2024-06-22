@@ -92,3 +92,17 @@
     - Vulkan post processing layer for graphical enhancement - integrates with clients
 - [GameMode](https://github.com/FeralInteractive/gamemode)
     - Resource optimization manager at OS/Process level to run games
+
+
+## Linux distributions reference
+
+### Gaming distros
+
+Distributions with the objective of a game-centric pc simulating console ease of use
+
+- [ChimeraOS](https://chimeraos.org)
+    - Arch based
+    - AMD Centric
+- [Bazzite](https://bazzite.gg/)
+    - Fedora based
+    - Built-in support for Nvidia
