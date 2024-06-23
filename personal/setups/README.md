@@ -39,7 +39,7 @@ Listing of existing and wished parts of my PC setup
     - Back exhaust:
         - 1 [NF-S12A PWM chromax.black.swap](https://noctua.at/de/nf-s12a-pwm-chromax-black-swap)
 
-### Accessories
+### Display & Audio
 
 - **Monitors**: [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
     - IPS
@@ -49,11 +49,17 @@ Listing of existing and wished parts of my PC setup
     - Nvidia G-Sync
     - HDR Ready
 - **Monitor stand**: [Duronic DMDC5X1](https://duronic.de/products/duronic-dmdc5x1-monitorhalterung-tischhalterung-bildschirmhalterung-monitorarm-mit-gasdruckfeder-lcd-led-computer-neigung-90-45-schwenkung-180-rotation-360)
+- **Headset**: [Logitech G535](https://www.logitechg.com/en-us/products/gaming-audio/g535-wireless-headset.981-000971.html)
+
+### Input
+
 - **Keyboard**: [Keychron K10 Pro QMK/VIA Wireless Mechanical Keyboard ISO Layout Collection](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection)
     - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
     - [ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
 - **Mouse**: [Logitech G502 Hero](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html)
-- **Headset**: [Logitech G535](https://www.logitechg.com/en-us/products/gaming-audio/g535-wireless-headset.981-000971.html)
+
+### Accessories
+
 - **Desk**: [Flexispot EG1](https://www.flexispot.de/elektrisch-hohenverstellbares-tischgestell-e1.html)
     - 120 x 60
 
@@ -74,6 +80,8 @@ Listing of existing and wished parts of my PC setup
 
 ### Accessories
 
+- **Chair**: [Flexispot BS2](https://www.flexispot.de/backsupport-burostuhl-bs2.html)
+
 #### Keyboard
 
 - Keycap rubber o-rings
@@ -85,6 +93,8 @@ Listing of existing and wished parts of my PC setup
     - Happy PC - [Etsy](https://www.etsy.com/de/listing/1178475719/mechanische-tastatur-keycap-pbt-keycaps?variation0=2462015924)
     - BSOD Windows PC [Etsy](https://www.etsy.com/de/listing/999114798/crt-monitor-artisan-tastenkappe-fur?variation0=1981665612)
     - PC XT - [Etsy](https://www.etsy.com/de/listing/1593988153/benutzerdefinierte-geschenk?variation0=3975847000&variation1=3975846992)
+- Keycap kits
+    - [ISO/ANSI STD EN BLACK & RED Light Through](https://www.kromekeycaps.com/en-de/products/iso-ansi-standard-black-red-pbt-keycaps)
 
 #### Mount and stand
 
@@ -114,7 +124,6 @@ Listing of existing and wished parts of my PC setup
 - [Honeywell PTM7950 PHASE CHANGE THERMAL PAD](https://advancedmaterials.honeywell.com/us/en/products/electronic-materials/thermal-management/phase-change-materials/ptm7000-series)
     - [LTTStore.com](https://www.lttstore.com/products/ptm7950-phase-change-thermal-pad)
     - [Amazon DE](https://www.amazon.de/-/en/PTM7950-Change-Thermal-Conductive-Silicone/dp/B0BRJB8JNX)
-
 - Isopropanol
     - [Amazon DE](https://www.amazon.de/-/en/PURIVITA-ISOPROPANOL-Electronics-Residue-Free-Non-Conductive/dp/B0C4FKV9HY/ref=sr_1_6)
 
