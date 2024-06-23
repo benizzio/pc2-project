@@ -98,6 +98,13 @@
         - Spoofing resolutions;
         - Upscaling using AMD FidelityFX™ Super Resolution or NVIDIA Image Scaling;
         - Limiting framerates.
+- [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
+    - Auxiliary GUI for Steam where you can configure tools like GameScope, MangoHud, modding tools and more.
+
+#### Hardware control
+
+- [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
+    - Information, control and overclocking fo NVidia GPUs
 
 
 ## Linux distributions reference
