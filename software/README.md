@@ -64,6 +64,7 @@
 - [Lutris](https://lutris.net)
     - Open source client for other stores, also with proton integration. Additional focus on emulation and game preservation
 
+
 ### Editors
 
 - [Xournal++](https://xournalpp.github.io/)
