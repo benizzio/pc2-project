@@ -2,9 +2,9 @@
 
 Listing of existing and wished parts of my PC setup
 
-[Past setups](past)
+[Past setups](past.md)
 
-[Wishlist](wishlist)
+[Wishlist](wishlist.md)
 
 ## Current setup
 
