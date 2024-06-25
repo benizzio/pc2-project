@@ -2,30 +2,20 @@
 
 Listing of existing and wished parts of my PC setup
 
+[Past setups](past)
 
-## Past setups
-
-### PC0
-
-- **CPU**: [Intel i7-2600K](https://www.intel.com/content/www/us/en/products/sku/52214/intel-core-i72600k-processor-8m-cache-up-to-3-80-ghz/specifications.html)
-- **Motherboard**: [Asus P8Z68-V PRO](https://www.asus.com/de/supportonly/p8z68-v%20pro/helpdesk_manual)
-- **RAM**: [XMS3 — 4GB Dual Channel DDR3 Memory Kit](https://www.corsair.com/eu/en/p/memory/tw3x4g1333c9a/xms3-a-4gb-dual-channel-ddr3-memory-kit-4-tw3x4g1333c9a)
-- **Graphics Card**: [MSI N560GTX-Ti Twin Frozr II/OC](https://www.msi.com/Graphics-Card/N560GTXTi_Twin_Frozr_IIOC/Specification)
-
-### PC1
-
-- **Graphics Card**: [ZOTAC GeForce GTX 1070 Mini](https://www.zotac.com/us/product/graphics_card/zotac-geforce-gtx-1070-mini-0)
-
+[Wishlist](wishlist)
 
 ## Current setup
 
 ### Hardware
 
 - **CPU**: [Intel i7-8700K](https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html)
+    - **Cooler**: [THERMALRIGHT Peerless Assassin 120 Black](https://www.thermalright.com/product/peerless-assassin-120-black/)
 - **Motherboard**: [Asus Z370-P](https://www.asus.com/me-en/supportonly/prime%20z370-p/helpdesk_manual)
 - **RAM**: [HyperX Predator HX430C15PB3K2/16](../../assets/HX430C15PB3K2_16.pdf)
-    - [Amazon DE](https://www.amazon.de/Kingston-HyperX-HX430C15PB3K2-16-DDR4-Speicher/dp/B01GCWQ4JA)
-- **Graphics Card**: [MSI NVIDIA GeForce RTX 3070 VENTUS 2X OC](https://www.msi.com/Graphics-Card/GeForce-RTX-3070-VENTUS-2X-8G-OC-LHR) 
+- **Graphics Card**: [MSI NVIDIA GeForce RTX 3070 VENTUS 2X OC](https://www.msi.com/Graphics-Card/GeForce-RTX-3070-VENTUS-2X-8G-OC-LHR)
+- **PSU**: [Seasonic Vertex GX 1000W ATX power supply unit](https://seasonic.com/atx3-focus-gx)
 
 ### Case
 
@@ -48,7 +38,7 @@ Listing of existing and wished parts of my PC setup
     - 165Hz
     - Nvidia G-Sync
     - HDR Ready
-- **Monitor stand**: [Duronic DMDC5X1](https://duronic.de/products/duronic-dmdc5x1-monitorhalterung-tischhalterung-bildschirmhalterung-monitorarm-mit-gasdruckfeder-lcd-led-computer-neigung-90-45-schwenkung-180-rotation-360)
+    - **Monitor stand**: [Duronic DMDC5X1](https://duronic.de/products/duronic-dmdc5x1-monitorhalterung-tischhalterung-bildschirmhalterung-monitorarm-mit-gasdruckfeder-lcd-led-computer-neigung-90-45-schwenkung-180-rotation-360)
 - **Headset**: [Logitech G535](https://www.logitechg.com/en-us/products/gaming-audio/g535-wireless-headset.981-000971.html)
 
 ### Input
@@ -57,79 +47,15 @@ Listing of existing and wished parts of my PC setup
     - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
     - [ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
 - **Mouse**: [Logitech G502 Hero](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html)
+- **USB Switch** [UGREEN USB Switch](https://de.ugreen.com/products/ugreen-usb-switch-2pc-10gbps-usb-3-2-switcher-2-in-4-out-usb-c-switch)
+    - 2 PCs 10 10Gbps USB 3.2 3 USB-A 1 USB-C
 
 ### Accessories
 
 - **Desk**: [Flexispot EG1](https://www.flexispot.de/elektrisch-hohenverstellbares-tischgestell-e1.html)
     - 120 x 60
 
-
-## Wishlist
-
-### Hardware
-
-- **PSU**: [Seasonic Vertex GX 1000W ATX power supply unit](https://seasonic.com/vertex-gx/)
-    - [Amazon DE](https://www.amazon.de/-/en/Seasonic-Vertex-1000-power-supply/dp/B0BQRCD834/ref=sr_1_1)
-- **CPU Cooler**:
-    - ~~[Noctua NH-U12a chromax.black](https://noctua.at/de/nh-u12a-chromax-black)~~
-        - ~~[Amazon DE](https://www.amazon.de/dp/B098XP1Y38)~~
-    - [THERMALRIGHT Peerless Assassin 120 Black](https://www.thermalright.com/product/peerless-assassin-120-black/)
-        - [Amazon DE](https://www.amazon.de/-/en/Thermalright-Peerless-Assassin-Heatpipes-Technology/dp/B0B531CBD3/ref=sr_1_3)
-    - [NF-F12 PWM chromax.black.swap](https://noctua.at/de/nf-f12-pwm-chromax-black-swap)
-        - [Amazon DE](https://www.amazon.de/dp/B07654PNFQ?tag=noctua09-21)
-
-### Accessories
-
-- **Chair**: [Flexispot BS2](https://www.flexispot.de/backsupport-burostuhl-bs2.html)
-
-#### Keyboard
-
-- Keycap rubber o-rings
-    - [Amazon DE](https://www.amazon.de/-/en/Pieces-Keyboard-Silicone-Dampener-Cleaning/dp/B09T67X4WR)
-- WASD special keycaps
-    - [KPrepublic](https://kprepublic.com/en-de/products/teamwolf-stainless-steel-mx-metal-keycap-for-keyboard-gaming-key-wasd-r2-r3-light-through-back-lit-black-blue-gold-gradient?variant=41921052770467)
-- Novelty Keycaps
-    - Steam - [MechanicalKeyboards.co.id](https://www.mechanicalkeyboards.co.id/products/detail/steam-abs-backlit-keycap-black)
-    - Happy PC - [Etsy](https://www.etsy.com/de/listing/1178475719/mechanische-tastatur-keycap-pbt-keycaps?variation0=2462015924)
-    - BSOD Windows PC [Etsy](https://www.etsy.com/de/listing/999114798/crt-monitor-artisan-tastenkappe-fur?variation0=1981665612)
-    - PC XT - [Etsy](https://www.etsy.com/de/listing/1593988153/benutzerdefinierte-geschenk?variation0=3975847000&variation1=3975846992)
-- Keycap kits
-    - [ISO/ANSI STD EN BLACK & RED Light Through](https://www.kromekeycaps.com/en-de/products/iso-ansi-standard-black-red-pbt-keycaps)
-
-#### Mount and stand
-
-- [VIVO Under Desk Leg Clamp PC Mount](https://vivo-us.com/products/mount-pc01c)
-    - Not available in Germany (Import only)
-    - [Ubuy](https://www.ubuy.co.de/en/product/7W04QOW18-vivo-adjustable-clamp-on-desk-leg-pc-mount-under-desk-pc-mount-computer-case-cpu-holder-with-tool-free-installation-black-mount-pc01c)
-    - [ebay](https://www.ebay.com/itm/326159340684)
-- [Magnetic Cable Management](https://www.lttstore.com/products/mcm-arches?variant=40464765517927)
-
-#### Docks
-
-- [Targus AWU420GL phone dock](https://de.targus.com/products/universal-usb-c-phone-dock-awu420gl)
-    - Fairphone compatible
-    - [Amazon DE](https://www.amazon.de/Targus-AWU420GL-Universal-Telefon-Dock-kompatibel/dp/B08TV9V83S)
-- [UGREEN USB Switch](https://de.ugreen.com/products/ugreen-usb-switch-2pc-10gbps-usb-3-2-switcher-2-in-4-out-usb-c-switch)
-    - 2 PCs 10 10Gbps USB 3.2 3 USB-A 1 USB-C
-    - [Amazon DE](https://www.amazon.de/UGREEN-Switcher-Kontroller-Umschalter-Aluminiumgeh%C3%A4use/dp/B0CH7T76RX)
-
-#### Tools
+### Tools
 
 - VANBAR AR100 compressed air blower
     - [Amazon DE](https://www.amazon.de/dp/B0BVLJ885C)
-
-
-## Supplies
-
-- [Honeywell PTM7950 PHASE CHANGE THERMAL PAD](https://advancedmaterials.honeywell.com/us/en/products/electronic-materials/thermal-management/phase-change-materials/ptm7000-series)
-    - [LTTStore.com](https://www.lttstore.com/products/ptm7950-phase-change-thermal-pad)
-    - [Amazon DE](https://www.amazon.de/-/en/PTM7950-Change-Thermal-Conductive-Silicone/dp/B0BRJB8JNX)
-- Isopropanol
-    - [Amazon DE](https://www.amazon.de/-/en/PURIVITA-ISOPROPANOL-Electronics-Residue-Free-Non-Conductive/dp/B0C4FKV9HY/ref=sr_1_6)
-
-
-## Interesting random products
-
-- HY320 Mini Projector
-    - [Amazon DE](https://www.amazon.de/-/en/Magcubic-Projector-Automatic-Correction-Integrated/dp/B0CQK47X5V/ref=sr_1_fkmr1_1)
-    - [AliExpress](https://www.aliexpress.com/item/1005006413384128.html)

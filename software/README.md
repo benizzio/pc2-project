@@ -107,6 +107,14 @@
     - Information, control and overclocking fo NVidia GPUs
 
 
+## Distro specific
+
+### Arch
+
+- [AUR helpers](https://wiki.archlinux.org/title/AUR_helpers)
+    - help manage community packages like oficial ones
+
+
 ## Linux distributions reference
 
 ### Gaming distros
