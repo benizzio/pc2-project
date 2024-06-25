@@ -2,6 +2,11 @@
 
 ## Basic pack
 
+### OS installation
+
+- [Ventoy](https://www.ventoy.net/en/index.html)
+    -  Single boot thumbdrive creation for multiple ISOs
+
 ### Terminal tools
 
 - [oh my zsh](https://ohmyz.sh/)
