@@ -6,4 +6,4 @@ Project to host resources used to create (or restore) the perfect \[gaming\] PC 
 
 1. [Software Guide](software)
 1. [Bookmarks](bookmarks)
-1. [Hardware - Personal setups and buying guides](personal)
+1. [Hardware - Personal setups and buying guides](hardware)
