@@ -8,9 +8,14 @@
     - [NF-F12 PWM chromax.black.swap](https://noctua.at/de/nf-f12-pwm-chromax-black-swap)
         - [Amazon DE](https://www.amazon.de/dp/B07654PNFQ?tag=noctua09-21)
 
-## Accessories
+## Office
 
-- **Chair**: [Flexispot BS2](https://www.flexispot.de/backsupport-burostuhl-bs2.html)
+- **Chair**: 
+    - [Flexispot BS2](https://www.flexispot.de/backsupport-burostuhl-bs2.html)
+    - SIDIZ T50 (Import only):
+        - [Ubuy](https://www.ubuy.co.de/en/product/6IU3LK-sidiz-t50-home-office-desk-chair-advanced-mechanism-for-your-posture-ventilated-mesh-back-adjustable-headrest-2-way-lumbar-support-3-way-armrests-adju)
+
+## Accessories
 
 ### Keyboard
 
@@ -40,18 +45,10 @@
     - Fairphone compatible
     - [Amazon DE](https://www.amazon.de/Targus-AWU420GL-Universal-Telefon-Dock-kompatibel/dp/B08TV9V83S)
 
-### Tools
+# Tools
 
 - [Xiaomi Mi x Wiha Precision Power Screwdriver](https://www.mi.com/de/product/mi-precision-screwdriver-kit)
     - [Amazon DE](https://www.amazon.de/-/en/Precision-Screwdriver-Smartphones-Consoles-Aluminium/dp/B08MV2H7KD/ref=sr_1_3)
-
-# Supplies
-
-- [Honeywell PTM7950 PHASE CHANGE THERMAL PAD](https://advancedmaterials.honeywell.com/us/en/products/electronic-materials/thermal-management/phase-change-materials/ptm7000-series)
-    - [LTTStore.com](https://www.lttstore.com/products/ptm7950-phase-change-thermal-pad)
-    - [Amazon DE](https://www.amazon.de/-/en/PTM7950PTM7950-Change-Thermal-Conductive-Silicone/dp/B0BRJB8JNX)
-- Isopropanol
-    - [Amazon DE](https://www.amazon.de/-/en/PURIVITA-ISOPROPANOL-Electronics-Residue-Free-Non-Conductive/dp/B0C4FKV9HY/ref=sr_1_6)
 
 
 # Interesting random products

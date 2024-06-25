@@ -4,8 +4,6 @@ Listing of existing and wished parts of my PC setup
 
 [Past setups](past.md)
 
-[Wishlist](wishlist.md)
-
 ## Current setup
 
 ### Hardware
@@ -31,7 +29,8 @@ Listing of existing and wished parts of my PC setup
 
 ### Display & Audio
 
-- **Monitors**: [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
+- **Monitors**: 1 [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
+    - 27"
     - IPS
     - Quantum Dot
     - 1440p
@@ -50,7 +49,7 @@ Listing of existing and wished parts of my PC setup
 - **USB Switch** [UGREEN USB Switch](https://de.ugreen.com/products/ugreen-usb-switch-2pc-10gbps-usb-3-2-switcher-2-in-4-out-usb-c-switch)
     - 2 PCs 10 10Gbps USB 3.2 3 USB-A 1 USB-C
 
-### Accessories
+### Office
 
 - **Desk**: [Flexispot EG1](https://www.flexispot.de/elektrisch-hohenverstellbares-tischgestell-e1.html)
     - 120 x 60
