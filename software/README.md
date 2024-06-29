@@ -1,17 +1,27 @@
 # Software
 
+- [Personal confis quick guide](personal/config.md)
+
 ## Basic pack
 
-### OS installation
+### Boot + OS utilities
 
 - [Ventoy](https://www.ventoy.net/en/index.html)
     -  Single boot thumbdrive creation for multiple ISOs
+
+
+### Distro specific
+
+#### Arch
+
+- [rua](https://github.com/vn971/rua)
+    - great AUR helper made in rust
 
 ### Terminal tools
 
 - [oh my zsh](https://ohmyz.sh/)
     - [zaw plugin](https://github.com/zsh-users/zaw)
-        - for Ubuntu
+        - install + config
             ```zsh
             > cd ~/.oh-my-zsh/plugins
             > git clone git@github.com:zsh-users/zaw.git
@@ -26,33 +36,6 @@
 
             # restart terminal session!
             ```
-
-- [jpegoptim](https://github.com/tjko/jpegoptim)
-    - Optimizations on jpeg images (e.g. compression)
-    - for Ubuntu
-        ```zsh
-        > sudo apt install jpegoptim
-        
-        # compress example:
-        > jpegoptim --max=50 ./*.jpg #50% compression
-        ```
-
-- [Miller](https://github.com/johnkerl/miller)
-    - File conversion, most importantly, Json <-> CSV
-
-- [gImageReader](https://github.com/manisandro/gImageReader)
-    - OCR from Image PDFs
-    - for Ubuntu
-        ```zsh
-        > sudo apt install gimagereader tesseract-ocr
-        ```
-    - [Language packages](https://packages.debian.org/source/sid/tesseract-lang)
-        - for Ubuntu
-            ```zsh
-            # example (portuguese)
-            > sudo apt install tesseract-ocr-por
-            ```
-
 
 ### Security
 
@@ -85,6 +68,32 @@
 - [Ferdium](https://ferdium.org/)
     - Service aggregation. Can integrate mail services, messaging services, social networks, calendar, AI chatbots, etc. all in one app
 
+- [jpegoptim](https://github.com/tjko/jpegoptim)
+    - Optimizations on jpeg images (e.g. compression)
+    - for Ubuntu
+        ```zsh
+        > sudo apt install jpegoptim
+
+        # compress example:
+        > jpegoptim --max=50 ./*.jpg #50% compression
+        ```
+
+- [Miller](https://github.com/johnkerl/miller)
+    - File conversion, most importantly, Json <-> CSV
+
+- [gImageReader](https://github.com/manisandro/gImageReader)
+    - OCR from Image PDFs
+    - for Ubuntu
+        ```zsh
+        > sudo apt install gimagereader tesseract-ocr
+        ```
+    - [Language packages](https://packages.debian.org/source/sid/tesseract-lang)
+        - for Ubuntu
+            ```zsh
+            # example (portuguese)
+            > sudo apt install tesseract-ocr-por
+            ```
+
 #### Accessories
 
 - [Solaar](https://github.com/pwr-Solaar/Solaar) 
@@ -110,14 +119,6 @@
 
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
     - Information, control and overclocking fo NVidia GPUs
-
-
-## Distro specific
-
-### Arch
-
-- [AUR helpers](https://wiki.archlinux.org/title/AUR_helpers)
-    - help manage community packages like oficial ones
 
 
 ## Linux distributions reference
