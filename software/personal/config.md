@@ -1,6 +1,6 @@
-# Configuration helper
+# Personal configuration helper
 
-Quick references for preferred configurations
+Quick references for my personal preferred configurations
 
 ## Manjaro
 
