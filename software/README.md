@@ -137,6 +137,9 @@
 
 - [GameMode](https://github.com/FeralInteractive/gamemode)
     - Resource optimization manager at OS/Process level to run games
+    - config quick reference>
+        - On Steam game launch: `gamemoderun gamescope -H 1440 -r 160 -f --mangoapp %command%`
+
 
 - [gamescope](https://github.com/ValveSoftware/gamescope)
     - Valve microcompositor for gaming features like:
@@ -145,7 +148,7 @@
         - Limiting framerates.
     - References:
         -  [Gamescope on Arch](https://wiki.archlinux.org/title/Gamescope)
-    - Config quick reference
+    - Config quick reference:
         - On Steam game launch [options](https://github.com/ValveSoftware/gamescope?tab=readme-ov-file#options):
             - `gamescope -H 1440 -r 160 -b --mangoapp %command%`
 
