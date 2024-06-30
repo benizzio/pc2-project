@@ -137,7 +137,9 @@
 
 - [GameMode](https://github.com/FeralInteractive/gamemode)
     - Resource optimization manager at OS/Process level to run games
-    - config quick reference>
+    - References:
+        - [Gamemode on Arch](https://wiki.archlinux.org/title/Gamemode)
+    - config quick reference:
         - On Steam game launch: `gamemoderun gamescope -H 1440 -r 160 -f --mangoapp %command%`
 
 
