@@ -9,6 +9,11 @@
 - [AUR helpers](https://wiki.archlinux.org/title/AUR_helpers)
     - help manage community packages like oficial ones
 
+##### Manjaro
+
+- [Graphics cards configuration](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards)
+
+
 ## Gaming adaptability
 
 - [protondb](https://www.protondb.com)
