@@ -21,6 +21,25 @@
 ### Terminal tools
 
 - [oh my zsh](https://ohmyz.sh/)
+    - Config quickref:
+        - best way to add variables to PATH
+            ```zsh
+            # INSIDE ~/.zshrc #########
+            # # ADD TO path examples
+            #
+            # # append
+            # path+=('/home/david/pear/bin')
+            #
+            # #or prepend
+            # path=('/home/david/pear/bin' $path)
+            #
+            # #export to sub-processes (make it inherited by child processes)
+            # export PATH
+            ###########################
+
+            > source .zshrc
+            ```
+
     - [zaw plugin](https://github.com/zsh-users/zaw)
         - install + config
             ```zsh
@@ -104,15 +123,32 @@
 
 - [MangoHud](https://github.com/flightlessmango/MangoHud)
     - Overlay for hardware data
+    - Setup quick ref:
+        - TIP: Check if commands (`mangohud`, `mangoapp`) are on PATH
+        - [Configuration](https://github.com/ValveSoftware/gamescope?tab=readme-ov-file#options)
+        - sanity tests:
+            ```zsh
+            > mangohud glxgears #OpenGL test
+            > MANGOHUD=1 vkcube #Vulkan test
+            ```
+
 - [vkBasalt](https://github.com/DadSchoorse/vkBasalt)
     - Vulkan post processing layer for graphical enhancement - integrates with clients
+
 - [GameMode](https://github.com/FeralInteractive/gamemode)
     - Resource optimization manager at OS/Process level to run games
+
 - [gamescope](https://github.com/ValveSoftware/gamescope)
     - Valve microcompositor for gaming features like:
         - Spoofing resolutions;
         - Upscaling using AMD FidelityFX™ Super Resolution or NVIDIA Image Scaling;
         - Limiting framerates.
+    - References:
+        -  [Gamescope on Arch](https://wiki.archlinux.org/title/Gamescope)
+    - Config quick reference
+        - On Steam game launch [options](https://github.com/ValveSoftware/gamescope?tab=readme-ov-file#options):
+            - `gamescope -H 1440 -r 160 -b --mangoapp %command%`
+
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
     - Auxiliary GUI for Steam where you can configure tools like GameScope, MangoHud, modding tools and more
 
