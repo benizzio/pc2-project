@@ -14,6 +14,8 @@
     - [Flexispot BS2](https://www.flexispot.de/backsupport-burostuhl-bs2.html)
     - SIDIZ T50 (Import only):
         - [Ubuy](https://www.ubuy.co.de/en/product/6IU3LK-sidiz-t50-home-office-desk-chair-advanced-mechanism-for-your-posture-ventilated-mesh-back-adjustable-headrest-2-way-lumbar-support-3-way-armrests-adju)
+    - [HBADA P5 (footrest)](https://hbada.eu/products/hbada-p5-ergonomic-office-chair-with-footrest)
+        - [Amazon DE](https://www.amazon.de/P5/dp/B0CH7RBQQ7)
 
 ## Accessories
 
