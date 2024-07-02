@@ -157,6 +157,32 @@
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
     - Auxiliary GUI for Steam where you can configure tools like GameScope, MangoHud, modding tools and more
 
+#### Benchmarking
+
+- [UNIGINE benchmark - Superposition](https://benchmark.unigine.com/superposition)
+    - Scored online graphical benchmark, GPU centric
+    - Paid
+    - Has stress test
+    - Bugs on Manjaro with Wayland and NVidia
+- [Blender Benchmark](https://opendata.blender.org/)
+    - Scored online, cpu and gpu
+    - Free
+    - Vulkan suport on experimental
+    - References:
+        - [Blender Benchmark on Arch](https://aur.archlinux.org/packages/blender-benchmark)
+- TRY CINEBENCH (Proton) ON WAYLAND
+- [stress](https://archlinux.org/packages/extra/x86_64/stress) + [s-tui](https://archlinux.org/packages/extra/any/s-tui)
+    - CPU stress tests with temp and frequency monitoring
+    - procedure:
+        ```zsh
+        #stress –cpu <number of threads> –timeout <duration in seconds>
+        > stress --cpu 12 --timeout 30
+        > s-tui #monitoring
+        ```
+- [gputest](https://www.geeks3d.com/gputest)
+    - Stress test & benchmark
+    - Example usage: `gputest /width=2560 /height=1440 /test=fur furmark-vk` #furmark vulkan
+
 #### Hardware control
 
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
