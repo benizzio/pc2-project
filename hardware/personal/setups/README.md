@@ -19,13 +19,16 @@ Listing of existing and wished parts of my PC setup
 
 - NZXT S340
     - [Manual](../../assets/nzxt-s340-manual.pdf)
-    - Front intake:
-        - 1 [NF-A14 PWM chromax.black.swap](https://noctua.at/de/nf-a14-pwm-chromax-black-swap/specification)
-            - [Amazon DE](https://www.amazon.de/dp/B07655KF5C?th=1)
-    - Top exhaust:
-        - 1 NF-A14 PWM chromax.black.swap
-    - Back exhaust:
-        - 1 [NF-S12A PWM chromax.black.swap](https://noctua.at/de/nf-s12a-pwm-chromax-black-swap)
+    - Cooling:
+        - Front intake:
+            - 2 [Noctua NF-A14 PWM chromax.black.swap](https://noctua.at/de/nf-a14-pwm-chromax-black-swap/specification)
+                - [Amazon DE](https://www.amazon.de/dp/B07655KF5C?th=1)
+        - Top exhaust:
+            - 1 Noctua NF-A14 PWM chromax.black.swap
+        - Back exhaust:
+            - 1 [Noctua NF-S12A PWM chromax.black.swap](https://noctua.at/de/nf-s12a-pwm-chromax-black-swap)
+        - Fan controller:
+            - [Noctua NA-FC1](https://noctua.at/de/na-fc1)
 
 ### Display & Audio
 
@@ -44,7 +47,7 @@ Listing of existing and wished parts of my PC setup
 
 - **Keyboard**: [Keychron K10 Pro QMK/VIA Wireless Mechanical Keyboard ISO Layout Collection](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection)
     - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
-    - [ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
+    - [Keychron ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
 - **Mouse**: [Logitech G502 Hero](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html)
 - **USB Switch** [UGREEN USB Switch](https://de.ugreen.com/products/ugreen-usb-switch-2pc-10gbps-usb-3-2-switcher-2-in-4-out-usb-c-switch)
     - 2 PCs 10 10Gbps USB 3.2 3 USB-A 1 USB-C
