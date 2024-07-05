@@ -1,4 +1,5 @@
-# Software
+
+    - When Proton version is not found (e.g. an update)# Software, clean directory `/dev/shm/steamtinkerlaunch`
 
 - [General confis quick guide](config.md)
 - [Personal confis quick guide](personal/config.md)
@@ -156,6 +157,7 @@
 
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
     - Auxiliary GUI for Steam where you can configure tools like GameScope, MangoHud, modding tools and more
+        - When Proton version is not found (e.g. an update), clean directory `/dev/shm/steamtinkerlaunch`
 
 #### Benchmarking
 
