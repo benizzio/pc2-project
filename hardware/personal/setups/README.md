@@ -3,6 +3,7 @@
 Listing of existing and wished parts of my PC setup
 
 [Past setups](past.md)
+[Benchmarks](benchmarks.md)
 
 ## Current setup
 
