@@ -21,5 +21,7 @@
     - CPU 100% load Net: 61 C
     - GPU Delta: 55 C
 
+#### Blender benchmarks
 
-
+- [CPU](https://opendata.blender.org/benchmarks/f9e7918f-9597-46f8-bd2b-0a67ce581597)
+- [GPU](https://opendata.blender.org/benchmarks/d5d65cad-0468-42b5-9d7c-4736c23d4678)

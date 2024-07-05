@@ -170,7 +170,6 @@
     - Vulkan suport on experimental
     - References:
         - [Blender Benchmark on Arch](https://aur.archlinux.org/packages/blender-benchmark)
-- TRY CINEBENCH (Proton) ON WAYLAND
 - [stress](https://archlinux.org/packages/extra/x86_64/stress) + [s-tui](https://archlinux.org/packages/extra/any/s-tui)
     - CPU stress tests with temp and frequency monitoring
     - procedure:
