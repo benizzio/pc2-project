@@ -1,5 +1,4 @@
-
-    - When Proton version is not found (e.g. an update)# Software, clean directory `/dev/shm/steamtinkerlaunch`
+# Software
 
 - [General confis quick guide](config.md)
 - [Personal confis quick guide](personal/config.md)
