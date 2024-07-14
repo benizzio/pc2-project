@@ -188,6 +188,23 @@
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
     - Information, control and overclocking fo NVidia GPUs
 
+#### Software development
+
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
+    - Manager app for all JetBrains tools. Installs, updates, keeps project references
+    - for Arch:
+        - [AUR package](https://aur.archlinux.org/packages/jetbrains-toolbox)
+
+- [Zed](https://zed.dev/)
+    - Rust IDE with Vulkan GPU acceleration
+    - for Arch:
+        - [AUR package](https://archlinux.org/packages/extra/x86_64/zed)
+
+- [pgModeler](https://pgmodeler.io)
+    - PostgreSQL database modeler with code generation
+    - for Arch:
+        - [AUR package](https://aur.archlinux.org/packages/pgmodeler)
+
 
 ## Linux distributions reference
 
