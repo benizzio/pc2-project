@@ -2,8 +2,8 @@
 
 Listing of existing and wished parts of my PC setup
 
-[Past setups](past.md)
-[Benchmarks](benchmarks.md)
+- [Past setups](past.md)
+- [Benchmarks](benchmarks.md)
 
 ## Current setup
 
@@ -57,6 +57,7 @@ Listing of existing and wished parts of my PC setup
 
 - **Desk**: [Flexispot EG1](https://www.flexispot.de/elektrisch-hohenverstellbares-tischgestell-e1.html)
     - 120 x 60
+- **Chair**: [HBADA P5 (footrest)](https://hbada.eu/products/hbada-p5-ergonomic-office-chair-with-footrest)
 
 ### Tools
 

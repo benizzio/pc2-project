@@ -8,14 +8,6 @@
     - [NF-F12 PWM chromax.black.swap](https://noctua.at/de/nf-f12-pwm-chromax-black-swap)
         - [Amazon DE](https://www.amazon.de/dp/B07654PNFQ?tag=noctua09-21)
 
-## Office
-
-- **Chair**: 
-    - [Flexispot BS2](https://www.flexispot.de/backsupport-burostuhl-bs2.html)
-    - SIDIZ T50 (Import only):
-        - [Ubuy](https://www.ubuy.co.de/en/product/6IU3LK-sidiz-t50-home-office-desk-chair-advanced-mechanism-for-your-posture-ventilated-mesh-back-adjustable-headrest-2-way-lumbar-support-3-way-armrests-adju)
-    - [HBADA P5 (footrest)](https://hbada.eu/products/hbada-p5-ergonomic-office-chair-with-footrest)
-        - [Amazon DE](https://www.amazon.de/P5/dp/B0CH7RBQQ7)
 
 ## Accessories
 
@@ -46,6 +38,7 @@
 - [Targus AWU420GL phone dock](https://de.targus.com/products/universal-usb-c-phone-dock-awu420gl)
     - Fairphone compatible
     - [Amazon DE](https://www.amazon.de/Targus-AWU420GL-Universal-Telefon-Dock-kompatibel/dp/B08TV9V83S)
+
 
 # Tools
 
