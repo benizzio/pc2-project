@@ -6,6 +6,7 @@ Quick references for general configurations
 
 ### NVidia
 
+- [Configure graphics cards on Manjaro](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards)
 - to work with wayland some kernel parameters must be set. The easyest permanent way is a config file
     - drop the [kernel module settings file](../src/conf/manjaro/nvidia.conf) inside `/etc/modprobe.d` and restart
     - further references:
