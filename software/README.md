@@ -205,6 +205,10 @@
     - for Arch:
         - [AUR package](https://aur.archlinux.org/packages/pgmodeler)
 
+## Gimmicks
+
+- [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)
+
 
 ## Linux distributions reference
 
