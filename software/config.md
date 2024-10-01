@@ -4,6 +4,10 @@ Quick references for general configurations
 
 ## Manjaro
 
+### Kernel
+
+- [Manjaro kernels](https://wiki.manjaro.org/index.php/Manjaro_Kernels)
+
 ### NVidia
 
 - [Configure graphics cards on Manjaro](https://wiki.manjaro.org/index.php/Configure_Graphics_Cards)
