@@ -7,7 +7,7 @@ Quick references for my personal preferred configurations
 ### KDE Plasma
 
 - set meta (windows) key as overview shortcut
-    - config:
+    - OLD config:
         ```zsh
         # INSIDE ~/.config/kwinrc #########
         #
@@ -18,5 +18,7 @@ Quick references for my personal preferred configurations
 
         # logoff!
         ```
-
+    - NEW config:
+        - `System settings` >> `Shortcuts` >> `Global Shortcuts` >> `KWin` >> `Toggle Overview`
+        - ![screenshot](../../assets/overview-conf.png)
 
