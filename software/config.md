@@ -4,6 +4,10 @@ Quick references for general configurations
 
 ## Manjaro
 
+### Packages
+
+- [Branch compare for Manjaro (Package search)](https://manjaristas.org/branch_compare)
+
 ### Kernel
 
 - [Manjaro kernels](https://wiki.manjaro.org/index.php/Manjaro_Kernels)
