@@ -4,6 +4,10 @@ Quick references for general configurations
 
 ## Manjaro
 
+### Backups
+
+- [Backup configuration and package list](https://forum.manjaro.org/t/root-tip-utililty-script-backup-configuration-and-package-list/104953)
+
 ### Packages
 
 - [Branch compare for Manjaro (Package search)](https://manjaristas.org/branch_compare)
