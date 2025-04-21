@@ -142,7 +142,6 @@
     - config quick reference:
         - On Steam game launch: `gamemoderun gamescope -H 1440 -r 160 -f --mangoapp %command%`
 
-
 - [gamescope](https://github.com/ValveSoftware/gamescope)
     - Valve microcompositor for gaming features like:
         - Spoofing resolutions;
@@ -155,8 +154,11 @@
             - `gamescope -H 1440 -r 160 -b --mangoapp %command%`
 
 - [Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch)
-    - Auxiliary GUI for Steam where you can configure tools like GameScope, MangoHud, modding tools and more
+    - Auxiliary GUI for Steam where you can configure tools like GameMode, gamescope, MangoHud, modding tools and more
         - When Proton version is not found (e.g. an update), clean directory `/dev/shm/steamtinkerlaunch`
+
+- [ProtonUP-Qt](https://github.com/DavidoTek/ProtonUp-Qt)
+    - Axiliary GUI to easily download and install compatibility tools (e.g. Proton GE, Steam Tinker Launch) on Steam and Lutris
 
 #### Benchmarking
 
