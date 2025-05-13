@@ -67,7 +67,7 @@
 
 - [Proton-GE-Custom](https://github.com/GloriousEggroll/proton-ge-custom)
     - Bleeding edge community alternative to proton (to also run with Steam)
-- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) `PROSPECT`
     - Open source client for for Epic Games Store, with proton integration to run games. Very customizable
 - [Lutris](https://lutris.net)
     - Open source client for other stores, also with proton integration. Additional focus on emulation and game preservation
@@ -131,8 +131,10 @@
             > mangohud glxgears #OpenGL test
             > MANGOHUD=1 vkcube #Vulkan test
             ```
+    - [MangoJuice](https://github.com/radiolamp/mangojuice) `PROSPECT`
+        - UI to configure MangoHud
 
-- [vkBasalt](https://github.com/DadSchoorse/vkBasalt)
+- [vkBasalt](https://github.com/DadSchoorse/vkBasalt) `PROSPECT`
     - Vulkan post processing layer for graphical enhancement - integrates with clients
 
 - [GameMode](https://github.com/FeralInteractive/gamemode)
@@ -189,6 +191,9 @@
 
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
     - Information, control and overclocking fo NVidia GPUs
+
+- [Linux GPU Control Application](https://github.com/ilya-zlobintsev/LACT) `PROSPECT`
+    - Information, control and overclocking fo multiple GPUs
 
 #### Software development
 
