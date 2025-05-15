@@ -13,8 +13,6 @@
 
 ### Keyboard
 
-- Keycap rubber o-rings
-    - [Amazon DE](https://www.amazon.de/-/en/Pieces-Keyboard-Silicone-Dampener-Cleaning/dp/B09T67X4WR)
 - WASD special keycaps
     - [KPrepublic](https://kprepublic.com/en-de/products/teamwolf-stainless-steel-mx-metal-keycap-for-keyboard-gaming-key-wasd-r2-r3-light-through-back-lit-black-blue-gold-gradient?variant=41921052770467)
 - Novelty Keycaps

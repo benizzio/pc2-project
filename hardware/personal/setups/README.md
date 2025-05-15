@@ -49,6 +49,7 @@ Listing of existing and wished parts of my PC setup
 - **Keyboard**: [Keychron K10 Pro QMK/VIA Wireless Mechanical Keyboard ISO Layout Collection](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection)
     - [Kailh Midnight Pro Silent Switch - Silent Linear](https://www.keychron.com/products/kailh-midnight-pro-silent-switch?variant=40313324208217)
     - [Keychron ISO ABS Full Set Keycap Set - PT-BR-ISO](https://keychron.de/products/iso-abs-full-set-keycap-set?variant=41259162599561)
+    - [Keycap rubber o-rings](https://www.amazon.de/-/en/Pieces-Keyboard-Silicone-Dampener-Cleaning/dp/B09T67X4WR)
 - **Mouse**: [Logitech G502 Hero](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html)
 - **USB Switch** [UGREEN USB Switch](https://de.ugreen.com/products/ugreen-usb-switch-2pc-10gbps-usb-3-2-switcher-2-in-4-out-usb-c-switch)
     - 2 PCs 10 10Gbps USB 3.2 3 USB-A 1 USB-C
