@@ -162,6 +162,9 @@
 - [ProtonUP-Qt](https://github.com/DavidoTek/ProtonUp-Qt)
     - Axiliary GUI to easily download and install compatibility tools (e.g. Proton GE, Steam Tinker Launch) on Steam and Lutris
 
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) `PROSPECT`
+    - Axiliary GUI to easily download and install compatibility tools (e.g. Proton GE, Steam Tinker Launch) on Steam, Lutris, Heroic, etc.
+
 #### Benchmarking
 
 - [UNIGINE benchmark - Superposition](https://benchmark.unigine.com/superposition)
