@@ -229,6 +229,10 @@ Distributions with the objective of a game-centric pc simulating console ease of
 - [ChimeraOS](https://chimeraos.org)
     - Arch based
     - AMD Centric
-- [Bazzite](https://bazzite.gg/)
+- [Bazzite](https://bazzite.gg)
     - Fedora based
     - Built-in support for Nvidia
+- [Nobara](https://nobaraproject.org)
+    - Fedora based
+    - Built-in support for Nvidia
+    - From [GloriousEggroll](https://github.com/GloriousEggroll)
