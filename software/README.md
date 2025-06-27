@@ -236,3 +236,6 @@ Distributions with the objective of a game-centric pc simulating console ease of
     - Fedora based
     - Built-in support for Nvidia
     - From [GloriousEggroll](https://github.com/GloriousEggroll)
+- [CachyOS](https://cachyos.org/)
+    - Arch based
+    - Optimized for performance, including in gaming
