@@ -85,6 +85,9 @@
 
 #### General
 
+- [LinuxToys](https://github.com/psygreg/linuxtoys)
+    - Easy to use collection installer of a curated collection of linux tools to help beginners.
+
 - [Ferdium](https://ferdium.org/)
     - Service aggregation. Can integrate mail services, messaging services, social networks, calendar, AI chatbots, etc. all in one app
 
