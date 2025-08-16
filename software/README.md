@@ -218,6 +218,8 @@
     - for Arch:
         - [AUR package](https://aur.archlinux.org/packages/pgmodeler)
 
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
+
 ## Gimmicks
 
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)
