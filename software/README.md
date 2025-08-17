@@ -65,12 +65,23 @@
 
 ### Compatibility
 
+#### Gaming
+
 - [Proton-GE-Custom](https://github.com/GloriousEggroll/proton-ge-custom)
     - Bleeding edge community alternative to proton (to also run with Steam)
+
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) `PROSPECT`
     - Open source client for for Epic Games Store, with proton integration to run games. Very customizable
+
 - [Lutris](https://lutris.net)
     - Open source client for other stores, also with proton integration. Additional focus on emulation and game preservation
+
+#### Distros
+
+- [Distrobox](https://github.com/89luca89/distrobox) `PROSPECT`
+    - Docker management layer to seamlessly run other Linux distro inside yours
+    - GUI:
+        - [DistroShelf](https://github.com/ranfdev/DistroShelf)
 
 
 ### Editors
@@ -85,7 +96,7 @@
 
 #### General
 
-- [LinuxToys](https://github.com/psygreg/linuxtoys)
+- [LinuxToys](https://github.com/psygreg/linuxtoys) `PROSPECT`
     - Easy to use collection installer of a curated collection of linux tools to help beginners.
 
 - [Ferdium](https://ferdium.org/)
