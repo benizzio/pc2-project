@@ -96,9 +96,6 @@
 
 #### General
 
-- [LinuxToys](https://github.com/psygreg/linuxtoys) `PROSPECT`
-    - Easy to use collection installer of a curated collection of linux tools to help beginners.
-
 - [Ferdium](https://ferdium.org/)
     - Service aggregation. Can integrate mail services, messaging services, social networks, calendar, AI chatbots, etc. all in one app
 
@@ -204,7 +201,20 @@
     - Stress test & benchmark
     - Example usage: `gputest /width=2560 /height=1440 /test=fur furmark-vk` #furmark vulkan
 
-#### Hardware control
+#### System & Hardware
+
+#### Monitoring
+
+- [Mission center](https://missioncenter.io)
+    - for Arch:
+        - [Package](https://archlinux.org/packages/extra/x86_64/mission-center)
+
+##### Config
+
+- [LinuxToys](https://github.com/psygreg/linuxtoys)
+    - Easy to use collection installer of a curated collection of linux tools to help beginners.
+
+##### Control
 
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
     - Information, control and overclocking fo NVidia GPUs
