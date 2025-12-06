@@ -11,6 +11,10 @@ Personal setups and buying guide for hardware and related items.
 
 ## Buying guides
 
+### Pricing
+
+ - [PCPARTPICKER price trends](https://de.pcpartpicker.com/trends/price/cpu/?currency=eur)
+
 ### Testing and benchmark data
 
 - [LTTLabs](https://www.lttlabs.com) - Linus Tech Tips database for benchmarks and testing of hardware
