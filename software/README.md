@@ -214,13 +214,15 @@
 - [LinuxToys](https://github.com/psygreg/linuxtoys)
     - Easy to use collection installer of a curated collection of linux tools to help beginners.
 
-##### Control
+##### Control & Tuning
 
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
-    - Information, control and overclocking fo NVidia GPUs
-
+    - Information, control and overclocking for NVidia GPUs
 - [Linux GPU Control Application](https://github.com/ilya-zlobintsev/LACT) `PROSPECT`
-    - Information, control and overclocking fo multiple GPUs
+    - Information, control and overclocking for multiple GPUs
+- [CoreCTL](https://gitlab.com/corectrl/corectr) `MAINTENANCE`
+    - CPU Informantion and control
+
 
 #### Software development
 
