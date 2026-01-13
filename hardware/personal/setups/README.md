@@ -5,6 +5,12 @@ Listing of existing and wished parts of my PC setup
 - [Past setups](past.md)
 - [Benchmarks](benchmarks.md)
 
+## Future setup
+
+### Hardware
+
+- **RAM**: [Flare X5 F5-6000J3636F16GX2-FX5](https://www.gskill.com/specification/165/396/1662622664/F5-6000J3636F16GX2-FX5-Specification)
+
 ## Current setup
 
 ### Hardware
