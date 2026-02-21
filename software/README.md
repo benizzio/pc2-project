@@ -125,6 +125,9 @@
             > sudo apt install tesseract-ocr-por
             ```
 
+- [KBackup](https://apps.kde.org/kbackup/)
+    -  KDE application for backups.
+
 #### Accessories
 
 - [Solaar](https://github.com/pwr-Solaar/Solaar) 
