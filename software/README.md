@@ -218,6 +218,7 @@
 
 - [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe)
     - Information, control and overclocking for NVidia GPUs
+    - [Active fork](https://github.com/dankamongmen/GreenWithEnvy)
 - [Linux GPU Control Application](https://github.com/ilya-zlobintsev/LACT) `PROSPECT`
     - Information, control and overclocking for multiple GPUs
 - [CoreCTL](https://gitlab.com/corectrl/corectr) `MAINTENANCE`
