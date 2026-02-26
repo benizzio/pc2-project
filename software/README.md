@@ -125,8 +125,11 @@
             > sudo apt install tesseract-ocr-por
             ```
 
-- [KBackup](https://apps.kde.org/kbackup/)
-    -  KDE application for backups.
+- [pdfgrep](https://pdfgrep.org)
+  - amazing tool to search text with RegExp inside pdfs
+
+- [KBackup](https://apps.kde.org/kbackup)
+  -  KDE application for backups.
 
 #### Accessories
 
