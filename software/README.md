@@ -15,8 +15,8 @@
 
 #### Arch
 
-- [rua](https://github.com/vn971/rua)
-    - great AUR helper made in rust
+- [paru](https://github.com/morganamilo/paru)
+  - great AUR helper, fully integrated to pacman
 
 ### Terminal tools
 
