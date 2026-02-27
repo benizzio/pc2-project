@@ -5,13 +5,9 @@ Listing of existing and wished parts of my PC setup
 - [Past setups](past.md)
 - [Benchmarks](benchmarks.md)
 
-## Future setup
-
-### Hardware
-
-- **RAM**: 
-
 ## Current setup
+
+![setup](../../../assets/setup.jpg)
 
 ### Hardware
 
