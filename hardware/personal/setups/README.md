@@ -9,16 +9,16 @@ Listing of existing and wished parts of my PC setup
 
 ### Hardware
 
-- **RAM**: [Flare X5 F5-6000J3636F16GX2-FX5](https://www.gskill.com/specification/165/396/1662622664/F5-6000J3636F16GX2-FX5-Specification)
+- **RAM**: 
 
 ## Current setup
 
 ### Hardware
 
-- **CPU**: [Intel i7-8700K](https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html)
+- **CPU**: [AMD Ryzen™ 7 9800X3D](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html)
     - **Cooler**: [THERMALRIGHT Peerless Assassin 120 Black](https://www.thermalright.com/product/peerless-assassin-120-black/)
-- **Motherboard**: [Asus Z370-P](https://www.asus.com/me-en/supportonly/prime%20z370-p/helpdesk_manual)
-- **RAM**: [HyperX Predator HX430C15PB3K2/16](../../assets/HX430C15PB3K2_16.pdf)
+- **Motherboard**: [MSI MAG B850 TOMAHAWK MAX WIFI](https://www.msi.com/Motherboard/MAG-B850-TOMAHAWK-MAX-WIFI)
+- **RAM**: [Flare X5 F5-6000J3636F16GX2-FX5](https://www.gskill.com/specification/165/396/1662622664/F5-6000J3636F16GX2-FX5-Specification)
 - **Graphics Card**: [MSI NVIDIA GeForce RTX 3070 VENTUS 2X OC](https://www.msi.com/Graphics-Card/GeForce-RTX-3070-VENTUS-2X-8G-OC-LHR)
 - **PSU**: [Seasonic Vertex GX 1000W ATX power supply unit](https://seasonic.com/atx3-focus-gx)
 
@@ -39,7 +39,7 @@ Listing of existing and wished parts of my PC setup
 
 ### Display & Audio
 
-- **Monitors**: 1 [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
+- **Monitors**: 3 [MSI Optix MAG274QRFDE-QD](https://de.msi.com/Monitor/Optix-MAG274QRF-QD/Specification)
     - 27"
     - IPS
     - Quantum Dot

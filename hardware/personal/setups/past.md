@@ -32,3 +32,11 @@ Reference of my previous PC Setups
 ### Office
 
 - **Chair**: [SIDIZ T50](https://www.sidiz.com/products/t50-high-performance-ergonomic-office-chair-black-frame-black-seat)
+
+## PC2
+
+### Hardware
+
+- **CPU**: [Intel i7-8700K](https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html)
+- **Motherboard**: [Asus Z370-P](https://www.asus.com/me-en/supportonly/prime%20z370-p/helpdesk_manual)
+- **RAM**: [HyperX Predator HX430C15PB3K2/16](../../assets/HX430C15PB3K2_16.pdf)
