@@ -183,7 +183,10 @@
     - Axiliary GUI to easily download and install compatibility tools (e.g. Proton GE, Steam Tinker Launch) on Steam, Lutris, Heroic, etc.
 
 - [arch-deckify](https://github.com/unlbslk/arch-deckify)
-    - A script to easily set up a SteamOS-like gaming environment on Arch Linux. 
+    - A script to easily set up a SteamOS-like gaming environment on Arch Linux.
+
+- [GOverlay](https://github.com/benjamimgois/goverlay)
+    - Multi-purpose utility to manage gaming tool configs
 
 #### Benchmarking
 
@@ -252,6 +255,9 @@
         - [AUR package](https://aur.archlinux.org/packages/pgmodeler)
 
 - [lazydocker](https://github.com/jesseduffield/lazydocker)
+
+- [opencode](https://opencode.ai)
+    - The best coding agent FOSS harness
 
 ## Gimmicks
 
