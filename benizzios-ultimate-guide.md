@@ -35,6 +35,6 @@ For non-steam games (or even as a place to centralize Steam with other game sour
 
 ## Step 3 - OPTIONAL - The "Steam Machine"
 
-For the ultimate couch PC gaming experience, install [arch-deckify](https://github.com/unlbslk/arch-deckify). After installation, your PC has a gaming mode similar to the Steam Deck and the Steam Machine, which overrides the normal desktop environment and controls the computing resources and configs automatically.
+For the ultimate couch PC gaming experience, install [arch-deckify](https://github.com/unlbslk/arch-deckify). After installation, your PC has a gaming mode similar to the Steam Deck and the Steam Machine, which overrides the normal desktop environment and controls the computing resources and configs automatically. You can freely switch between both.
 
 If you have older or weaker hardware and a 4K TV, in "Gaming Mode" be sure to go to `Settings` -> `Display` and disable `Automatically Set Resolution`, then set `Resolution` and `Maximum Game Resolution` to something your hardware can handle. Steam's `gamemode` will automatically upscale the content to your TV resolution.
