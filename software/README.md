@@ -182,7 +182,7 @@
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) `PROSPECT`
     - Axiliary GUI to easily download and install compatibility tools (e.g. Proton GE, Steam Tinker Launch) on Steam, Lutris, Heroic, etc.
 
-- [arch-deckify](https://github.com/unlbslk/arch-deckify) `PROSPECT`
+- [arch-deckify](https://github.com/unlbslk/arch-deckify)
     - A script to easily set up a SteamOS-like gaming environment on Arch Linux. 
 
 #### Benchmarking
