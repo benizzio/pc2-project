@@ -3,6 +3,10 @@
 - [General confis quick guide](config.md)
 - [Personal confis quick guide](personal/config.md)
 
+## General Linux references
+
+- [The Linux Desktop Guide](https://thelinuxbook.com)
+
 ## Basic pack
 
 ### Boot + OS utilities
